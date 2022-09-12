@@ -1,0 +1,7 @@
+[
+    {"id":1,"name":"richard","room_name":"Banquet","date":"12 Sept 2022","start_time":"12:00pm","end_time":"3:00pm","status":"Approved"},
+    {"id":2,"name":"Allen","room_name":"Deluxe","date":"13 Sept 2022","start_time":"1:00pm","end_time":"4:00pm","status":"Approved"},
+    {"id":3,"name":"Finn","room_name":"Vista","date":"14 Sept 2022","start_time":"2:00pm","end_time":"5:00pm","status":"Approved"},
+    {"id":4,"name":"Carter","room_name":"General","date":"15 Sept 2022","start_time":"3:00pm","end_time":"6:00pm","status":"Approved"},
+    {"id":5,"name":"Steve","room_name":"Deluxe Ac","date":"16 Sept 2022","start_time":"6:00pm","end_time":"9:00pm","status":"Approved"}
+]
